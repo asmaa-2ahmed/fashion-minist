@@ -2,7 +2,7 @@
 
 Welcome to the **Fashion MNIST Classifier** — a fun and intuitive way to classify clothing items using deep learning! 👚👖👟
 
-This project uses a trained neural network to recognize fashion items from the [Fashion MNIST dataset](https://github.com/asmaa-2ahmed/fashion-minist) and features a sleek **Streamlit** web interface for easy testing and interaction.
+This project uses a trained neural network to recognize fashion items from the [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist) and features a sleek **Streamlit** web interface for easy testing and interaction.
 
 Whether you're an AI enthusiast or just curious about machine learning, this app is a great place to start! 🧠✨
 
@@ -14,7 +14,7 @@ Follow these steps to get the project running locally on your machine:
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/fashion-minist.git
+git clone [https://github.com/your-username/fashion-minist.git](https://github.com/asmaa-2ahmed/fashion-minist)
 cd fashion-minist
 ```
 
