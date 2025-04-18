@@ -14,7 +14,7 @@ Follow these steps to get the project running locally on your machine:
 
 ### 1. **Clone the Repository**
 ```bash
-git clone [https://github.com/your-username/fashion-minist.git](https://github.com/asmaa-2ahmed/fashion-minist)
+git clone (https://github.com/asmaa-2ahmed/fashion-minist)
 cd fashion-minist
 ```
 
